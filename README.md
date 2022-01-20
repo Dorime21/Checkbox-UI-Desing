@@ -1,7 +1,7 @@
-Checkbox Design using HTML and CSS3 
+<h1>Checkbox Design using HTML and CSS3</h1>
 
 <div align="center">
-  <h1>Unmarked</h1>
+  <h2>Unmarked</h2>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@ Checkbox Design using HTML and CSS3
 </div>
 
 <div align="center">
-  <h1>Marked</h1>
+  <h2>Marked</h2>
 </div>
 
 <div align="center">
